@@ -10,7 +10,7 @@ What is Used
 * style.css
 
 ## Live URL
-https://noah8863.github.io/Professional-Portfolio/
+https://noah8863.github.io/Updated-Portfolio/
 
 ## Screenshots
 
